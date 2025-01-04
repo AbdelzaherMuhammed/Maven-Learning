@@ -16,7 +16,6 @@ This repository is a companion to the **Maven Full Tutorial** video by [TechPrim
 6. [Archetypes](#archetypes)
 7. [Additional Features](#additional-features)
 8. [M2Eclipse Plugin](#m2eclipse-plugin)
-9. [Wrap Up](#wrap-up)
 
 
 ### **Inheritance and Profiles**
