@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: com.infiniteskills.maven.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.029 s <<< FAILURE! -- in com.infiniteskills.maven.AppTest
+junit.framework.TestSuite$1 -- Time elapsed: 0.011 s <<< FAILURE!
+junit.framework.AssertionFailedError: No tests found in com.infiniteskills.maven.AppTest
+	at junit.framework.Assert.fail(Assert.java:57)
+	at junit.framework.TestCase.fail(TestCase.java:223)
+	at junit.framework.TestSuite$1.runTest(TestSuite.java:96)
+	at junit.framework.TestCase.runBare(TestCase.java:142)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:130)
+	at junit.framework.TestSuite.runTest(TestSuite.java:241)
+	at junit.framework.TestSuite.run(TestSuite.java:236)
+

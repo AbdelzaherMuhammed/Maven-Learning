@@ -1,0 +1,54 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'/home/abdelzaher-muhammed/.m2/repository/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'maven-generate 1.0-SNAPSHOT API'
+-footer
+'Hello World'
+-header
+'Test'
+-use
+-version
+-windowtitle
+'maven-generate 1.0-SNAPSHOT API'
+com.infiniteskills.maven
+/home/abdelzaher-muhammed/.m2/repository/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0.jar = 1735571125532
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/src/main/java = 1735570226483
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/allclasses-index.html = 1735816241680
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/allpackages-index.html = 1735816241683
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/copy.svg = 1735816241719
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/element-list = 1735816241595
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/help-doc.html = 1735816241715
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/index-all.html = 1735816241702
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/index.html = 1735816241708
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/link.svg = 1735816241720
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/member-search-index.js = 1735816241686
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/module-search-index.js = 1735816241685
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/overview-tree.html = 1735816241657
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/package-search-index.js = 1735816241686
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/script.js = 1735816241719
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/search-page.js = 1735816241724
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/search.html = 1735816241706
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/search.js = 1735816241723
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/stylesheet.css = 1735816241718
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/tag-search-index.js = 1735816241687
+/media/abdelzaher-muhammed/3bdu/Maven/maven-generate/target/site/apidocs/type-search-index.js = 1735816241686
